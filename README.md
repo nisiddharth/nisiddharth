@@ -1,4 +1,4 @@
-# Hello, World
+# `Hello, World!`
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## Hi, Nishchal here! :wave:
+## Nishchal here! :wave:
 
 - 🔭 I'm an Android and Flutter Developer, Linux and opensource lover.
 - 🌱 I’m currently learning some of the latest trends related to tech (blockchain, machine learning, reactjs, etc.).
